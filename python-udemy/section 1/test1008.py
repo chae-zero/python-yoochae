@@ -6,6 +6,12 @@ matrix = []
 for i in range(row):
     matrix.append(list(input()))"""
 
+#바꿈
+#바꿈
+#바꿈
+#바꿈
+#바꿈
+
 col, row = map(int, input().split())
 matrix = []
 
